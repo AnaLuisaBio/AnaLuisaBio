@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "🚀 Looking to get hired :)"
 date: 2024-10-08
 date: 2024-10-08T17:55:28+08:00
 description: "🚀 Seeking Opportunities in Tech and Bioinformatics"
