@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Ana's Website"
+#theme = "theme-academic-cv"
+theme = "hyde"
+
+#[module]
+#  [[module.imports]]
+#    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
