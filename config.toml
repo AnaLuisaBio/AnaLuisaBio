@@ -7,12 +7,12 @@ theme = "gokarna"
 
 
 # Choose one of emacs, trac or perldoc
-pygmentsStyle = "monokai"
+pygmentsStyle = "emacs"
 
 [params]
-  footer = "The Marauders"
-  description = "Sky above, sand below and peace within"
-  avatarURL = "/images/avatar.webp"
+  footer = ""
+  description = "\"In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.\" -- Matthew 5:16"
+  avatarURL = "/images/ana-avatar.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts and pages
@@ -38,8 +38,8 @@ pygmentsStyle = "monokai"
   """
   socialIcons = [
     {name = "linkedin", url = "https://br.linkedin.com/in/ana-luisa-araujo-alves-b5a99a205"},
-    {name = "instagram", url = "https://example.com"},
-    {name = "twitch", url = "https://www.instagram.com/anaalves_araujo"},
+    {name = "instagram", url = "https://www.instagram.com/anaalves_araujo"},
+    {name = "github", url = "https://github.com/AnaLuisaBio/"},
     {name = "email", url = "mailto:analuisa.bio@gmail.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
