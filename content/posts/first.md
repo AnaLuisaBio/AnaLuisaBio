@@ -17,8 +17,8 @@ Currently, I’m expanding my skill set by learning **web development** 🌐 usi
 
 I’m eager to contribute to innovative projects and am open to full-time positions or internships in tech, bioinformatics, or related fields. You can find my **CV** and **GitHub** portfolio linked below:
 
-- [📄 My CV](/static/cv_en.pdf)
-- [🇧🇷 My CV in Portuguese](/static/cv_ptbr.pdf)
+- [📄 My CV](/cv_en.pdf)
+- [🇧🇷 My CV in Portuguese](/cv_ptbr.pdf)
 - [🐙 My GitHub](https://github.com/AnaLuisaBio/)
 
 Feel free to reach out! 💬
